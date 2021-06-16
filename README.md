@@ -1,4 +1,5 @@
 # Prisma - Assignment
+Write resolvers from how you know/would think they should be written. This can be seen as a simple pen and paper task, since you don't have to run it on an actual server/local environment.
 
 &nbsp;
 # Goals/Outcomes ✨
