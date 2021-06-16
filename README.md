@@ -3,8 +3,8 @@ Write resolvers from how you know/would think they should be written. This can b
 
 &nbsp;
 # Goals/Outcomes ✨
-- Create a resolver, with Prisma, that queries all users
-- Create a resolver, with Prisma, that only queries all users contact name
+- Create a resolver, with Prisma, that queries all users with the status of 'PENDING'
+- Create a resolver, with Prisma, that only queries all users' contact name
 - Create a resolver, with Prisma, that creates a product containing the information in the product file
 
 &nbsp;
